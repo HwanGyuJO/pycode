@@ -1,4 +1,4 @@
-import rando
+import random
 
 def get_user_choice():
     user_input = input("가위, 바위, 보 중 하나를 입력하세요!: ")
